@@ -1,6 +1,6 @@
 ## 
 <h1 align="center">👋 ¡Hi! I'm Mathius </h1>
-<h3 align="center">💻 Software Engineer | 🚀 Passionate about technology</h3>
+<h3 align="center">💻 Systems Engineer Student | 🚀 Passionate about technology</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=blue&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!+:D;Junior+Developer;Passionate+about+Tech!;Let's+Build+Something+Great!+🚀">
@@ -24,7 +24,7 @@
 </details>
 
 <details open>
-<summary><h2>🛠️ technologies and tools</h2></summary>
+<summary><h2>🛠️ Technologies and Tools</h2></summary>
 <h3>👨‍💻 Programming Languages and Frameworks</h3>
 
   <p align="center">

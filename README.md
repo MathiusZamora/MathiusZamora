@@ -6,8 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=blue&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!+:D;Junior+Developer;Passionate+about+Tech!;Let's+Build+Something+Great!+🚀">
 </p>
 
+
+
 <details open>
 <summary><h2>🌟 About me</h2></summary>  
+
+<p align="center">
+  <img src="https://www.datamanagements.in/wp-content/uploads/2022/01/gif.gif" width="250" />
   
   <br>
   
@@ -21,12 +26,15 @@
 <details open>
 <summary><h2>🛠️ technologies and tools</h2></summary>
 <h3>👨‍💻 Programming Languages and Frameworks</h3>
+
+  <p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDI0ZmVqa3k0YmNtendsZ2p3a2tjejBqYXI0djE4aG0zem9pcm1qdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" width="200" />
+
+  </p>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,dotnet,python,mysql,git,cs,vscode,kotlin,cpp,html" />
 </div>
 </details>
-
-
 
   
 <!--

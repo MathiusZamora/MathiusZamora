@@ -1,5 +1,34 @@
-## Hi there 👋
+## 
+<h1 align="center">👋 ¡Hi! I'm Mathius </h1>
+<h3 align="center">💻 Software Engineer | 🚀 Passionate about technology</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=blue&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!+:D;Junior+Developer;Passionate+about+Tech!;Let's+Build+Something+Great!+🚀">
+</p>
+
+<details open>
+<summary><h2>🌟 About me</h2></summary>  
+  
+  <br>
+  
+- 🎯 I specialize in backend and frontend development with technologies like **C#, Python, MySQL.**  
+- 💡 I love learn about **new technologies and automation**.  
+- 🎨 I also enjoy working with **databases and performance optimization**.  
+- 📚 Currently learning **AutoHotkey, Kotlin and networking in GNS3**.  
+- 🌍 Living in **Managua, Nicaragua**.
+</details>
+
+<details open>
+<summary><h2>🛠️ technologies and tools</h2></summary>
+<h3>👨‍💻 Programming Languages and Frameworks</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,dotnet,python,mysql,git,cs,vscode,kotlin,cpp,html" />
+</div>
+</details>
+
+
+
+  
 <!--
 **MathiusZamora/MathiusZamora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

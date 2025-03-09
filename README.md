@@ -31,9 +31,10 @@
   <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXN2b2szYW5oYmU4cThiMGxheW50d3RjNDRtdnMxajNob3N6Mmp1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LjDZ5EPa9HS1hc6rXi/giphy.gif" width="200" />
 
+
   </p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,dotnet,python,mysql,git,cs,vscode,kotlin,cpp,html" />
+  <h1><img src="https://skillicons.dev/icons?i=react,dotnet,python,mysql,git,cs,vscode,kotlin,cpp,html" /></h1>
 </div>
 </details>
 

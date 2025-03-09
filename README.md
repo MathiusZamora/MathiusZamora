@@ -29,7 +29,7 @@
 <h3>👨‍💻 Programming Languages and Frameworks</h3>
 
   <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDI0ZmVqa3k0YmNtendsZ2p3a2tjejBqYXI0djE4aG0zem9pcm1qdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" width="200" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXN2b2szYW5oYmU4cThiMGxheW50d3RjNDRtdnMxajNob3N6Mmp1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LjDZ5EPa9HS1hc6rXi/giphy.gif" width="200" />
 
   </p>
 <div align="center">

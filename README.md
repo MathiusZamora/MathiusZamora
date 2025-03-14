@@ -4,7 +4,7 @@
 <h3 align="center">💻 Systems Engineer Student | 🚀 Passionate about technology</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=blue&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!+:D;Junior+Developer;Passionate+about+Tech!;Let's+Build+Something+Great!+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=blue&center=true&vCenter=true&width=500&lines=Hello+World!;+Welcome+to+my+profile!+:D;Junior+Developer;Let's+Code+Something+Great!+🚀">
 </p>
 
 

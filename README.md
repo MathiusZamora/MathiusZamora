@@ -1,5 +1,5 @@
 ## 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <b>Hi , I'm Mathius :point_up::nerd_face: </b></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <b>Hi , I'm Mathius  </b><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGR5d2kxYjJqdXptdWV3bGhvY2FqZWZrMWgyamI5dmR3ZG1zbzJkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/INdNaMKIElyhjZl50e/giphy.gif" width="65"> </h1>
 
 <h3 align="center">💻 Systems Engineer Student | 🚀 Passionate about technology</h3>
 

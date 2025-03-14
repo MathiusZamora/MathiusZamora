@@ -18,10 +18,10 @@
   <br>
   
 - 🎯 I specialize in backend and frontend development with technologies like **C#, Python, MySQL.**  
-- 💡 I love learn about **new technologies and automation**.  
-- 🎨 I also enjoy working with **databases and performance optimization**.  
+- 💡 I love learn about **new technologies and automation**.   
 - 📚 Currently learning **AutoHotkey, Kotlin and networking in GNS3**.  
 - 🌍 Living in **Managua, Nicaragua**.
+- <img src= "https://www.logotypes101.com/logos/607/EA1DDC26707C7797837A0A5D7C413F8F/logo-univalle.png" width="15"> Currently a student at the **Universidad del Valle**.
 </details>
 
 <details open>

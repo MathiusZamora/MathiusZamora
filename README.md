@@ -13,7 +13,7 @@
 <summary><h2>🌟 About me</h2></summary>  
 
 <p align="center">
-  <img src="https://www.datamanagements.in/wp-content/uploads/2022/01/gif.gif" width="250" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpkcnY5dzBuY2xobjFlZ3l6bm9pNm16dHRzMHZsOGhlYzRqN2g1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BNjxwnU7JCRNIvTNvL/giphy.gif" width="350" />
   
   <br>
   
@@ -38,7 +38,6 @@
 </div>
 </details>
 
-![](https://komarev.com/ghpvc/?username=your-github-MathiusZamora)
 
 <!--
 **MathiusZamora/MathiusZamora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

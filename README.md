@@ -9,11 +9,11 @@
 
 
 
-<details open>
+<details close>
 <summary><h2>🌟 About me</h2></summary>  
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFoN3hpOTFrdjJxNzcyajQ2cjExZzYwN2V6cTdtODduMnE2NWRsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d7bG6GWsRoDarE5P39/giphy.gif" width="350" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFoN3hpOTFrdjJxNzcyajQ2cjExZzYwN2V6cTdtODduMnE2NWRsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d7bG6GWsRoDarE5P39/giphy.gif" width="350"  />
   
   <br>
   
